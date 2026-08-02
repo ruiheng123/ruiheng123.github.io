@@ -17,7 +17,7 @@ I am always happy to connect with researchers and practitioners who share simila
 
 **BlockVLA: Accelerating Autoregressive VLA via Block Diffusion Finetuning**<br>
 Ruiheng Wang<sup>*</sup>, Shuanghao Bai<sup>*</sup>, Haoran Zhang, Badong Chen, Xiangyu Xu<sup>&dagger;</sup><br>
-[[arXiv link]](https://arxiv.org/abs/2605.13382) | [[Project page]](https://ruiheng123.github.io/blockvla.github.io/)  (Under review AAAI 2027)
+[[arXiv link]](https://arxiv.org/abs/2605.13382) | [[Project page]](https://ruiheng123.github.io/blockvla.github.io/)  (Under review)
 
 <sup>*</sup> Equal contribution. <sup>&dagger;</sup> Corresponding author.
 
